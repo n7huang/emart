@@ -1,0 +1,89 @@
+Item Code,Item,Qualifier,Price ($),Item(s) in Stock
+Fd02748,Round steak,1 kg,12.65,23
+Fd02660,Ground beef - canned,1 kg,11.98,13
+Fd05557,Chicken,1 kg,6.53,20
+Fd08293,Bacon,500 g,4.92,36
+Fd00204,Eggs,1 dz,2.64,3
+Fd02641,Homogenized milk,1 L,2.22,21
+Fd00750,Bananas,1 kg,1.64,12
+Fd05447,Apples,1 kg,3.07,16
+Fd08514,Stewing Beef,1 kg,9.72,5
+Fd02814,Flour,2.5 kg,4.38,21
+Fd08647,Processed Cheese Food Slices,250 g,2.7,30
+Fd03971,Canned Sockeye Salmon,213 g,315.0,17
+Fd03036,Butter,454 g,4.22,24
+Fd05280,Quinoa Organic,1 lb,1.49,14
+Fd02259,Organic Hummus,250 g,3.5,40
+Fd03058,Apple juice - canned,1.36 L,2.0,12
+Fd06994,Basmati Rice,100 g,0.99,7
+Fd00923,Pork chops,1 kg,9.72,13
+Fd01096,Corn flakes,675 g,4.16,15
+Fd07419,Macaroni,500 g,1.26,18
+Fd04708,Basil,1 bunch,2.0,10
+Fd01056,Bread,675 g,2.6,5
+Fd09602,Onions,1 kg,1.46,15
+Fd08498,Sugar,2 kg,3.0,20
+Fd06213,French Baguette,1 loaf,3.5,9
+Fd09847,Tomatoes - canned,796 ml,1.6,38
+Fd06390,Paper towels (rolls),2 rolls,2.38,30
+Fd02846,Potatoes,4.54 kg,4.61,13
+Fd07577,Mushrooms,1 kg,7.68,20
+Fd04478,Oranges,1 kg,2.96,20
+Fd09715,Carrots,1 kg,1.37,20
+Fd00405,Baked beans,398 ml,1.08,45
+Fd01971,Peanut butter,500 g,2.97,37
+Fd01181,Celery,1 kg,1.97,25
+Fd04984,Apples,1 kg,3.07,24
+Fd08388,Grapefruits,1 kg,2.73,19
+Fd02921,Breadsticks,1 pkg,4.5,29
+Fd08027,Yogurt,6 oz,0.69,22
+Fd03809,Spinach,9 oz,1.79,30
+Fd07508,Potato chips,bag,2.39,32
+Fd01036,Ketchup,bottle,3.89,24
+Fd09965,Sweet potatoes,1 lb,5.0,20
+Fd07640,Raisins,24 oz,3.99,60
+Fd04574,Partly skimmed milk,1 L,2.14,12
+Fd08029,Leeks,bunch,3.4,16
+Fd04986,Mozarella sticks,pkg,4.5,23
+Fd06105,Tea,72 (bags),4.22,50
+Fd00628,Baby food,128 ml,0.8,50
+Fd08196,Fruit flavoured crystals,2.25 L,1.38,60
+Tc04746,Acer Aspire 15.6" Laptop,Intel Pentium processor N3530,399.99,8
+Tc04210,Nikon D7100 Digital Camera,24.1 MP,1259.98,14
+Tc03166,Apple iPod Touch,16GB - Blue,219.99,25
+Tc03802,Cuisinart Compact Blender,CPB-300C,64.99,11
+Tc00998,PlayStation 4 Console,500GB - Black,449.99,4
+Tc05569,Pebble Steel Smartwatch,Black - Leather Band,219.99,6
+Tc09479,Bose SoundLink Bluetooth Speaker,Silver,219.99,11
+Tc08203,HP Inkjet Cartridge,60 CMY,26.99,9
+Tc06335,Samsung Galaxy Tab 4,7" 8GB Android 4.4,199.99,23
+Md05184,Advil Extra Strength Ligui-Gels,24pills/pk,10.99,14
+Md02196,Tylenol Extra Strength Caplets,100 Count,21.0,12
+Md01087,Webber Naturals Multi Vitamin,60-count,5.82,27
+Md03783,Jamieson Vitamin B12,100 count,8.52,12
+Md04815,Cold-FX Regular Strength Capsule,200 count,28.99,20
+Md02415,Cambogia Extract Pure,80% HCA,29.97,18
+Md01510,hydraSense Protective Filters,20 count,4.99,40
+Md02021,Nasal Aspirator,Blue,17.99,11
+Md05730,Toothpaste,1 tube,1.95,13
+Cl04107,Levi's Men's 505 Jeans,Regular Fit,39.99,11
+Cl08589,D&K Seamless Full Length Leggings,Black,5.0,20
+Cl07638,Men's NFL Basic Tee,XL,9.0,15
+Cl03644,Crew Neck Tee Shirt,5 pack,14.99,15
+Cl07035,Knitted Pullover Sweater,Cashmere,33.99,11
+Cl02437,CK 3-Pack Classic Brief,Grey,13.6,50
+Cl08674,Surf Men's Barracuda Trunks,36” waistline,17.5,22
+Cl09843,Waterproof Boot,Size 12,78.39,15
+Cl03972,Long Sleeve Woven Shirt,Button-down,79.5,25
+Cl04234,Polka Dot Socks,3 pack,15.99,10
+Cl00860,Dress Pants,32” waistline,63.99,5
+Cl02404,Solarsoft Moccasin Training Shoes,Royal Blue,51.99,3
+CD01065,Title (Deluxe),Meghan Trainor,14.99,18
+CD01800,1989,Taylor Swift,12.99,16
+CD05701,In the Only Hour,Sam Smith,12.99,5
+CD05025,1000 Forms of Fear,Sia,12.99,20
+CD07773,Demi,Demi Lovato,12.99,11
+CD02635,Kidz Bop 27,Kidz Bop,12.99,11
+CD06102,Guardians of the Galaxy Soundtrack,Various Artists,12.99,4
+CD00523,FOUR (Deluxe),One Direction,14.99,23
+CD05666,Hozier,Hozier,12.99,15
